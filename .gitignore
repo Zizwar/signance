@@ -5,6 +5,10 @@
 .env.test.local
 .env.production.local
 .env.local
-
+tmp/
 # Fresh build directory
 _fresh/
+.DS_Store
+build/
+node_modules/
+coverage/
